@@ -1,0 +1,1 @@
+- 👋 Hi, I’m Nelson, I work in Corporate Finance at Intel.
