@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Nelson, I'm a Data Scientist in Intel's Finance team.
+- 👋 Hi, I’m Nelson, I'm a Data Scientist at The Clorox Company
