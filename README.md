@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Nelson, I'm a Data Scientist at The Clorox Company
+- 👋 Hi, I’m Nelson, I'm a Data Scientist working on Forecasting problems. In my free time I'm studying Bayesian Statistical Decision Theory!
